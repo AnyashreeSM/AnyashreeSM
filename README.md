@@ -1,64 +1,58 @@
-Anyashree S M
+# Anyashree S M
 
-Aspiring full stack developer and MCA student with a strong foundation in web development. I enjoy building real-world projects and am currently improving my skills in the PERN stack (PostgreSQL, Express.js, React, Node.js).
+Aspiring full stack developer and MCA student with a strong foundation in web development.  
+I enjoy building real-world projects and am currently improving my skills in the PERN stack (PostgreSQL, Express.js, React, Node.js).
 
-Skills
+---
 
-Languages: JavaScript, Python, Java (Basic), C, C++
-Frontend: HTML, CSS, Responsive Design, React (Basic)
-Backend: Node.js, Express.js
-Database: MySQL, NoSQL (Basic)
-Tools: Git, GitHub, VS Code
-Core Concepts: REST APIs (Basic), CRUD Operations
+## Skills
 
-Projects
-Portfolio Website
+**Languages:** JavaScript, Python, Java (Basic), C, C++  
+**Frontend:** HTML, CSS, Responsive Design, React (Basic)  
+**Backend:** Node.js, Express.js  
+**Database:** MySQL, NoSQL (Basic)  
+**Tools:** Git, GitHub, VS Code  
+**Concepts:** REST APIs (Basic), CRUD Operations
 
-A responsive personal portfolio built with HTML, CSS, and JavaScript.
-Live: https://portfolio-7s1k62pdn-anyashree-somanath-majalikars-projects.vercel.app/
+---
 
-Repo: https://github.com/AnyashreeSM/Portfolio
+## Projects
 
-AI Image Generator
+### Portfolio Website  
+A responsive personal portfolio built with HTML, CSS, and JavaScript.  
+**Live:** [Portfolio](https://portfolio-7s1k62pdn-anyashree-somanath-majalikars-projects.vercel.app/)  
+**Repo:** [GitHub](https://github.com/AnyashreeSM/Portfolio)
 
-AI-image generator using OpenAI/Hugging Face API with prompt-based image creation.
-Live: https://ai-image-81vajza6i-anyashree-somanath-majalikars-projects.vercel.app/
+### AI Image Generator  
+AI-image generator using OpenAI/Hugging Face API with prompt-based image creation.  
+**Live:** [AI Image Generator](https://ai-image-81vajza6i-anyashree-somanath-majalikars-projects.vercel.app/)  
+**Repo:** [GitHub](https://github.com/AnyashreeSM/ai-image-gen)
 
-Repo: https://github.com/AnyashreeSM/ai-image-gen
+### E-Commerce Website  
+E-commerce project with product listings, categories, and responsive UI.  
+**Live:** [E-Commerce Website](https://e-commerce-website-2f36kbhmw.vercel.app/)  
+**Repo:** [GitHub](https://github.com/AnyashreeSM/e-commerceWebsite)
 
-E-Commerce Website
+### freeCodeCamp Projects  
+Survey Form, Tribute Page, Product Landing Page, Technical Documentation Page, Portfolio.
 
-E-commerce UI with product listings, categories, and clean responsive layout.
-Live: https://e-commerce-website-2f36kbhmw.vercel.app/
+---
 
-Repo: https://github.com/AnyashreeSM/e-commerceWebsite
+## Certifications
 
-Responsive Web Design Projects (freeCodeCamp)
+- Responsive Web Design – freeCodeCamp  
+- Python Basics – Infosys Springboard  
+- SQL & Databases – IBM  
+- Cloud Fundamentals – IBM  
+- Data Analysis with Python – IBM  
+- Front-End Web Development – Edunet & IBM SkillsBuild  
+- Introduction to AI – Infosys Springboard  
+- Fundamentals of Encryption – IBM
 
-Completed multiple responsive projects including Survey Form, Tribute Page, Product Landing Page, Technical Documentation, and Portfolio.
+---
 
-Certifications
+## Contact
 
-Responsive Web Design – freeCodeCamp
-
-Python Basics – Infosys Springboard
-
-SQL & Relational Databases – IBM
-
-Cloud Fundamentals – IBM
-
-Data Analysis with Python – IBM
-
-Front-End Web Development – Edunet & IBM SkillsBuild
-
-Introduction to AI – Infosys Springboard
-
-Fundamentals of Encryption – IBM
-
-Contact
-
-GitHub: https://github.com/AnyashreeSM
-
-LinkedIn: https://www.linkedin.com/in/anyashree-2016jd
-
-Email: anyashreesm@gmail.com
+**GitHub:** [AnyashreeSM](https://github.com/AnyashreeSM)  
+**LinkedIn:** [Profile](https://www.linkedin.com/in/anyashree-2016jd)  
+**Email:** anyashreesm@gmail.com
