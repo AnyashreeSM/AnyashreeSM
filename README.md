@@ -1,4 +1,4 @@
-# Hi, I'm Anyashree
+# Hi, I'm Anyashree S M
 
 I'm an MCA student and aspiring full stack developer with a strong interest in web development, problem-solving, and building real-world projects. I enjoy working on both the frontend and backend, and I'm currently improving my skills in the PERN stack.
 
@@ -19,19 +19,22 @@ Concepts: REST API (Basic), CRUD Operations
 
 ### Portfolio Website  
 A responsive portfolio built using HTML, CSS, and JavaScript.  
-Live Link: your link here  
-Repository: your repository link
+Live Link: https://portfolio-7s1k62pdn-anyashree-somanath-majalikars-projects.vercel.app/ 
+Repository: https://github.com/AnyashreeSM/Portfolio
 
 ### AI Image Generator  
-A web-based AI image generator using the Hugging Face or OpenAI API. Implements prompt input and real-time image generation.  
-Repository: your repository link
+A web-based AI image generator using the Hugging Face or OpenAI API. Implements prompt input and real-time image generation. 
+Live Link: https://ai-image-81vajza6i-anyashree-somanath-majalikars-projects.vercel.app/
+Repository: https://github.com/AnyashreeSM/ai-image-gen
 
 ### E-Commerce Website  
 A simple e-commerce project with product listings, categories, and a clean UI.  
-Repository: your repository link
+Live Link: https://e-commerce-website-2f36kbhmw.vercel.app/
+Repository: https://github.com/AnyashreeSM/e-commerceWebsite
 
 ### freeCodeCamp Projects  
 Completed Responsive Web Design Certification with multiple projects like Survey Form, Tribute Page, Technical Documentation Page, Product Landing Page, and Portfolio.
+
 
 ---
 
@@ -53,3 +56,4 @@ Completed Responsive Web Design Certification with multiple projects like Survey
 GitHub: https://github.com/AnyashreeSM  
 LinkedIn: https://www.linkedin.com/in/anyashree-2016jd  
 Email: anyashreesm@gmail.com
+
