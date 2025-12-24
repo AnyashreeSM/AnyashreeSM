@@ -36,18 +36,6 @@ E-commerce project with product listings, categories, and responsive UI.
 ### freeCodeCamp Projects  
 Survey Form, Tribute Page, Product Landing Page, Technical Documentation Page, Portfolio.
 
----
-
-## Certifications
-
-- Responsive Web Design – freeCodeCamp  
-- Python Basics – Infosys Springboard  
-- SQL & Databases – IBM  
-- Cloud Fundamentals – IBM  
-- Data Analysis with Python – IBM  
-- Front-End Web Development – Edunet & IBM SkillsBuild  
-- Introduction to AI – Infosys Springboard  
-- Fundamentals of Encryption – IBM
 
 ---
 
