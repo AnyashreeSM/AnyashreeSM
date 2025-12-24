@@ -5,17 +5,6 @@ I enjoy building real-world projects and am currently improving my skills in the
 
 ---
 
-## Skills
-
-**Languages:** JavaScript, Python, Java (Basic), C, C++  
-**Frontend:** HTML, CSS, Responsive Design, React (Basic)  
-**Backend:** Node.js, Express.js  
-**Database:** MySQL, NoSQL (Basic)  
-**Tools:** Git, GitHub, VS Code  
-**Concepts:** REST APIs (Basic), CRUD Operations
-
----
-
 ## Projects
 
 ### Portfolio Website  
