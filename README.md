@@ -21,9 +21,10 @@ AI-image generator using OpenAI/Hugging Face API with prompt-based image creatio
 E-commerce project with product listings, categories, and responsive UI.  
 **Live:** [E-Commerce Website](https://e-commerce-website-2f36kbhmw.vercel.app/)  
 **Repo:** [GitHub](https://github.com/AnyashreeSM/e-commerceWebsite)
+
 ### Mini-Drum Project 
-**Live:** https://mini-drum-project.vercel.app/
-**Repo:** https://github.com/AnyashreeSM/mini-drum-project
+**Live:** [Mini-Drum] https://mini-drum-project.vercel.app/
+**Repo:** [GitHub]https://github.com/AnyashreeSM/mini-drum-project
 
 ### freeCodeCamp Projects  
 Survey Form, Tribute Page, Product Landing Page, Technical Documentation Page, Portfolio.
